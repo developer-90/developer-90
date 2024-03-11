@@ -2,7 +2,7 @@
 
 Desarrollador back-end con una pasión desenfrenada por la creación de soluciones tecnológicas innovadoras y de alto rendimiento. 
 
-💻 Con una sólida formación como Técnico en Sistemas Microinformáticos y Redes, y un título recién obtenido de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, mi enfoque se mantiene en la vanguardia del desarrollo de software.
+💻 Con una sólida formación como Técnico en Sistemas Microinformáticos y Redes, y Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, mi enfoque se mantiene en la vanguardia del desarrollo de software.
 
 ---
 
