@@ -6,7 +6,7 @@ Desarrollador back-end con una pasión desenfrenada por la creación de solucion
 
 ---
 
-#### Tecnologias y herramientas
+#### 🛠️ Tecnologias y herramientas
 
 <div>
   <img src="https://miro.medium.com/v2/resize:fit:2560/1*2XrX0fP0htyTCah7AglTig.jpeg" alt="java" width="80">
