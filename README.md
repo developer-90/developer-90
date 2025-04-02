@@ -1,4 +1,4 @@
-### 🚀 ¡Saludos a tod@s! Soy José Antonio Ures Teba.
+### 🚀 ¡Saludos a tod@s! Soy Jose Antonio Ures Teba.
 
 Desarrollador back-end con una pasión desenfrenada por la creación de soluciones tecnológicas innovadoras y de alto rendimiento. 
 
